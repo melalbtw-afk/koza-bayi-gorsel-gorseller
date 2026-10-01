@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-01T13:16:54.914Z",
+  "assets": [
+    {
+      "name": "KOZA.SAHARA.zip",
+      "size": 103039228,
+      "id": 598330015,
+      "download": "https://api.github.com/repos/melalbtw-afk/koza-bayi-gorsel/releases/assets/598330015"
+    },
+    {
+      "name": "MOOD.zip",
+      "size": 45138749,
+      "id": 598330017,
+      "download": "https://api.github.com/repos/melalbtw-afk/koza-bayi-gorsel/releases/assets/598330017"
+    },
+    {
+      "name": "ORIGINE.zip",
+      "size": 66012997,
+      "id": 598330011,
+      "download": "https://api.github.com/repos/melalbtw-afk/koza-bayi-gorsel/releases/assets/598330011"
+    },
+    {
+      "name": "SISALO.zip",
+      "size": 48047520,
+      "id": 598330012,
+      "download": "https://api.github.com/repos/melalbtw-afk/koza-bayi-gorsel/releases/assets/598330012"
+    },
+    {
+      "name": "VISTA.zip",
+      "size": 31729839,
+      "id": 600275450,
+      "download": "https://api.github.com/repos/melalbtw-afk/koza-bayi-gorsel/releases/assets/600275450"
+    }
+  ]
+}
